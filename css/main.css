@@ -1,0 +1,5 @@
+header, nav, section, aside, article, footer {
+    border: black solid 1.5px;
+    padding: 5px;
+    margin: 5px;
+}
